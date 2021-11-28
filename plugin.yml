@@ -1,0 +1,6 @@
+name: NoWaterLagg
+author: ItsMax123
+
+main: Max\NoWaterLagg\NoWaterLagg
+version: 1.0.0
+api: 3.0.0
